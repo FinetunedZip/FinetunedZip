@@ -1,0 +1,6 @@
+.env
+**.gpz
+**.txt
+/finetuned_models
+/datasets
+/checkpoints
